@@ -1,0 +1,13 @@
+.folder{
+    background-color: beige;
+    display : flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 300px;
+    cursor: pointer
+}
+
+.span{
+    display: flex;
+    flex-direction: row;
+}
